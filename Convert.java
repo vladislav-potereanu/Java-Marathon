@@ -10,8 +10,8 @@ public class Convert {
     double years =(int) min / 60 / 24 / 365;
     double days = (int) min / 60 / 24;
 
-    System.out.println("Numer of years = " + years);
-    System.out.println("Number of days = " + days);
+    System.out.println("Numer of years : " + years);
+    System.out.println("Number of days : " + days);
 
     }
 }
