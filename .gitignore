@@ -1,0 +1,14 @@
+#Build Results
+log.txt
+/dir2
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+.class/
+.idea/
+out/
