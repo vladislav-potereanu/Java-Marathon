@@ -3,6 +3,7 @@ import  java.util.Scanner;
 
 public class Convert {
     public static void  main(String[] args){
+
     Scanner input = new Scanner(System.in);
     System.out.println("Input number of minutes: ");
     double min = input.nextDouble();
